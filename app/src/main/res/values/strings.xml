@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EDC</string>
+    <string name="calculate_load">Load Calculation</string>
+    <string name="load_power">Load in VA</string>
+    <string name="source_voltage">Source Voltage</string>
+    <string name="load_current">Load Current: %s A</string>
+    <string name="three_phase">Three-Phase</string>
+</resources>
